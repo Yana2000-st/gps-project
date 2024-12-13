@@ -1,11 +1,4 @@
 @font-face {
-    font-family: 'TT-lakes-normal';
-    src: url("./fonts/TTLakes-Regular.woff") format("woff");
-    font-style: normal;
-    font-weight: normal;
-}
-  
-@font-face {
     font-family:'TT-lakes-medium' ;
     src: url('./fonts/TTLakes-Medium.woff') format('woff');
     font-weight: medium;
