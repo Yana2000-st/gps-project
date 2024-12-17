@@ -26,7 +26,14 @@ body {
     background-color: #F8F8F8;
 }
 
+.container-wrapper {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+
 .header {
+    background-color: #FFFFFF;
     padding: 24px 16px;
     border-bottom: 1px solid #D9FFF5;
 }
@@ -35,6 +42,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #FFFFFF;
 }
 
 button {
@@ -438,6 +446,7 @@ button {
 
 .container {
     padding: 42px 25px 49px 0;
+    background-color: #F8F8F8;
 }
 
 .title__text {
